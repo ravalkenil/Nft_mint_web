@@ -1,0 +1,22 @@
+{
+  "name": "nft_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.7",
+    "@openzeppelin/contracts": "^4.8.2",
+    "@truffle/hdwallet-provider": "^2.1.8",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "node": "^19.6.1",
+    "nvm": "^0.0.4",
+    "react-ztext": "^1.0.3",
+    "truffle": "^5.8.0"
+  }
+}
